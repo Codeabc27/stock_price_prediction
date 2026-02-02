@@ -11,10 +11,6 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data files
-data/
-*.csv
-*.xlsx
 
 # Models
 *.pkl
